@@ -131,6 +131,6 @@ function tell():string{//指定返回值类型为string
 function tell1():void{//无返回值
 
 }
-``
+```
 
 ## 3. 常见问题
